@@ -5,6 +5,6 @@ metadata:
   annotations:
     github.com/project-slug: helgif/Calculator-iOS
 spec:
-  type: other
-  lifecycle: unknown
+  type: component
+  lifecycle: experimental
   owner: team-a
